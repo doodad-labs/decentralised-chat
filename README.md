@@ -3,7 +3,6 @@
 
 <br>
 <br>
-<br>
 
 ![](./gossip-protocol.png)
 [Excalidraw Link](https://excalidraw.com/#json=YHTpM7XqSRL2XTqj5bLi_,7oLkqy68MrKWp9A_S659hg)
