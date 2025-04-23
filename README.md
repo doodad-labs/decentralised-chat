@@ -1,5 +1,5 @@
 ![](./gossip-protocol.png)
-[Excalidraw Link](https://excalidraw.com/#json=qzLiLWwOGCsaUaIDmOf63,_QjI-e00O99510LTli9pcQ)
+[Excalidraw Link](https://excalidraw.com/#json=YHTpM7XqSRL2XTqj5bLi_,7oLkqy68MrKWp9A_S659hg)
 
 <br>
 <br>
