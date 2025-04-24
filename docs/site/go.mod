@@ -1,5 +1,5 @@
-module github.com/NotReeceHarris/arachne.ws/docs/site
+module github.com/doodad-labs/decentralised-chat/docs/site
 
 go 1.20
 
-replace github.com/NotReeceHarris/arachne.ws/docs => ../
+replace github.com/doodad-labs/decentralised-chat/docs => ../

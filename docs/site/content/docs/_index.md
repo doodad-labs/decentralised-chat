@@ -26,7 +26,7 @@ Designed for building beautiful websites for documentation, blogs, and websites,
 
 {{< callout emoji="❓" >}}
   Hextra is still in active development.
-  Have a question or feedback? Feel free to [open an issue](https://github.com/NotReeceHarris/arachne.ws/issues)!
+  Have a question or feedback? Feel free to [open an issue](https://github.com/doodad-labs/decentralised-chat/issues)!
 {{< /callout >}}
 
 ## Next

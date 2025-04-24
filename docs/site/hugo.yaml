@@ -1,6 +1,6 @@
 # Configuration
-baseURL: "https://arachne.ws/"
-title: "arachne.ws"
+baseURL: "https://decentralised-chat/"
+title: "decentralised-chat"
 
 enableRobotsTXT: true
 # Parse Git commit
@@ -22,7 +22,7 @@ languages:
   en:
     languageName: English
     weight: 1
-    title: arachne.ws
+    title: decentralised-chat
 
 module:
   hugoVersion:
@@ -31,7 +31,7 @@ module:
 
   workspace: hugo.work
   imports:
-    - path: github.com/NotReeceHarris/arachne.ws/docs
+    - path: github.com/doodad-labs/decentralised-chat/docs
 
 markup:
   highlight:
@@ -68,7 +68,7 @@ menu:
         type: search
     - name: GitHub
       weight: 6
-      url: "https://github.com/notreeceharris/arachne.ws"
+      url: "https://github.com/doodad-labs/decentralised-chat"
       params:
         icon: github
 
@@ -131,7 +131,7 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/NotReeceHarris/arachne.ws/tree/main/docs/site/content"
+    base: "https://github.com/doodad-labs/decentralised-chat/tree/main/docs/site/content"
 
   blog:
     list:
@@ -155,7 +155,7 @@ params:
 
     # https://giscus.app/
     giscus:
-      repo: notreeceharris/arachne.ws
+      repo: doodad-labs/decentralised-chat
       repoId: R_kgDOOAoMqQ
       category: General
       categoryId: DIC_kwDOOAoMqc4CnZ_6

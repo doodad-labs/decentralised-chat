@@ -1,5 +1,5 @@
 ---
-title: Arachne.ws
+title: decentralised-chat
 layout: hextra-home
 comments: false
 ---

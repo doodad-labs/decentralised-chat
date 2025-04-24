@@ -1,3 +1,3 @@
-module github.com/NotReeceHarris/arachne.ws/docs
+module github.com/doodad-labs/decentralised-chat/docs
 
 go 1.20
